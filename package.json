@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tallyuri",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tally structured JSON uri payloads without a heavyweight toolkit.",
+  "bin": {
+    "tallyuri": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tallyuri.git"
+  },
+  "homepage": "https://theworker02.github.io/tallyuri/",
+  "keywords": [
+    "tally",
+    "uri",
+    "json",
+    "cli",
+    "toolkit"
+  ]
+}
